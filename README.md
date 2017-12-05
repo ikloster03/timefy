@@ -1,2 +1,3 @@
 # timefy
 Timefy your life with js!
+> In developing now...
