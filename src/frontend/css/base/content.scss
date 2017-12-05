@@ -1,0 +1,64 @@
+/*
+.content{
+  text-align: left;
+  color: #B3B7C3;
+  font-size: 14px;
+  line-height: 21px;
+  &_unloaded{
+    display: none;
+  }
+  table{
+    text-align: left;
+    width:100%;
+    tr{
+      line-height: 40px;
+      padding-right: 20px;
+    }
+    td{
+      color: black;
+      min-width: 30px;
+      padding-right: 30px;
+      &:first-of-type{
+        padding-left: 20px;
+      }
+    }
+    .table__even{
+      background: $background;
+    }
+    .table__text{
+      color: #B3B7C3;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    .table__number{
+      color: $red;
+      width: 140px;
+      font-size: 12px;
+      font-weight: bold;
+    }
+  }
+  h1{
+    color: black;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 30px;
+  }
+}
+
+
+.c-quote{
+  position: relative;
+}
+
+.title__content{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+  padding:15px 0px;
+  padding-top: 25px;
+  color: white;
+}
+*/
+
