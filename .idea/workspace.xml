@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3018e788-49e4-4743-8675-a7dfe8ade7d9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/apps/statistics/Statistics.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/apps/statistics/StatisticsForm.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/apps/statistics/StatisticsList.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/apps/statistics/statistics.app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/apps/timer/TimerForm.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/apps/timer/TimerList.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/apps/timetable/TimeTable.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/apps/timetable/TimeTableForm.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/apps/timetable/TimeTableList.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/apps/timetable/timetable.app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/components/store/model/actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/components/store/model/getters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/components/store/model/model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/components/store/model/mutations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frontend/js/components/store/model/states.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/frontend/js/apps/timer/Timer.vue" afterPath="$PROJECT_DIR$/src/frontend/js/apps/timer/Timer.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/frontend/js/apps/timer/timer.app.js" afterPath="$PROJECT_DIR$/src/frontend/js/apps/timer/timer.app.js" />
-    </list>
+    <list default="true" id="3018e788-49e4-4743-8675-a7dfe8ade7d9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +14,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="statistics.app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="statistics.app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/frontend/js/apps/statistics/statistics.app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="statistics.app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/frontend/js/apps/dashboard/statistics/statistics.app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/frontend/js/apps/dashboard/user/user.app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,13 +68,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/frontend/js/app.js" />
         <option value="$PROJECT_DIR$/src/frontend/js/apps/timer/Timer.vue" />
         <option value="$PROJECT_DIR$/src/frontend/js/apps/timetable/timetable.app.js" />
         <option value="$PROJECT_DIR$/src/frontend/js/apps/timer/timer.app.js" />
         <option value="$PROJECT_DIR$/src/frontend/js/apps/statistics/statistics.app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/frontend/js/apps/dashboard/user/user.app.js" />
+        <option value="$PROJECT_DIR$/src/frontend/js/apps/dashboard/statistics/statistics.app.js" />
       </list>
     </option>
   </component>
@@ -153,6 +167,35 @@
               <item name="apps" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="dashboard" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="timefy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="timefy" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="apps" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dashboard" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="statistics" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="timefy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="timefy" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="apps" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dashboard" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="user" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="timefy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="timefy" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="apps" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="statistics" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -170,6 +213,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/frontend/js/apps/dashboard/user" />
+      <recent name="$PROJECT_DIR$/src/frontend/js/apps/dashboard/statistics" />
       <recent name="$PROJECT_DIR$/src/frontend/js/apps/statistics" />
       <recent name="$PROJECT_DIR$/src/frontend/js/components" />
       <recent name="$PROJECT_DIR$/src/frontend/js/apps/timetable" />
@@ -202,8 +247,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1399" height="801" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25350037" sideWeight="0.49156117" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25350037" sideWeight="0.49156117" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -308,13 +354,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -475,8 +514,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/frontend/js/apps/statistics/statistics.app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/js/apps/dashboard/user/user.app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/js/apps/dashboard/statistics/statistics.app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
